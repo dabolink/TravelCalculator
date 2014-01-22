@@ -3,13 +3,17 @@ package Model;
 public class Item {
 	private String name;
 	private int quantity;
+	private String description;
+	boolean smashable;
 	
 	public Item(String name){
-		
+		this.name = name;
 	}
-	public Item(String name, int quantity){
+	public Item(String name, int quantity, String description, boolean smashable){
 		this.name = name;
 		this.quantity = quantity;
+		this.description = description;
+		this.smashable = smashable;
 	}
 	public void setName(String name){
 		this.name = name;
