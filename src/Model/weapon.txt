@@ -1,0 +1,163 @@
+2010 Blastoff Trap
+	LE
+	2,600
+	Tactical
+	15 
+	0 
+	25
+	Very Stale
+	99,000
+	512,800	
+2012 Big Boom Trap
+	LE
+	2,500
+	Tactical
+	15 
+	20 
+	25
+	Extremely Stale
+	102,012
+	600,000+	
+500 Pound Spiked Crusher
+	TS
+	250
+	Physical
+	10 
+	0 
+	1
+	No Effect
+	2,100
+	3,450	
+Ambrosial Portal
+	1,025
+	Shadow
+	0 
+	5 
+	0
+	Fresh
+	182,000
+	140,000	
+Ambush
+	C TS
+	3,000
+	Tactical
+	5 
+	0 
+	12
+	Fresh
+	950,000
+	62,660+	
+Ancient Box Trap
+	C TS
+	4,300
+	Forgotten
+	10
+	0
+	4
+	No Effect
+	17,000,000
+	158,175+	
+Ancient Gauntlet LE, S	 1,050	 Physical	 4 	 20 	 4	Extremely Fresh	 0	 0	 Double loot in King's Gauntlet Tier 1
+Ancient Spear Gun C	 3,600	 Hydro	 5 	 10 	 12	Fresh	 12,000,000	 824,000+	
+Arcane Blast Trap LE	 3,400	 Arcane	 8 	 0 	 20	Insanely Fresh	 900,000	 1,470,000	
+Arcane Capturing Rod Of
+Never Yielding Mystery C, TS	 3,800	 Arcane	 12 	 0 	 18	Insanely Stale	 3,393,600	 949,050+	
+Bandit Deflector S	 1,500	 Law	 11 	 0 	 0	No Effect	 Lord+	 150,000+	 Designed to be used in the Raider River phase at the Gnawnian Express Station.
+Birthday Candle Kaboom LE	 2,400	 Physical	 30 	 20 	 14	Very Stale	 91,000	 289,000	
+Birthday Party Piñata Bonanza LE	 2,500	 Physical	 35 	 0 	 10	Stale	 96,000	 305,000	
+Blackstone Pass Trap C, S	 3,000	 Tactical	 15 	 0 	 12	Very Fresh	 58,000,000	 1,100,000	 Favor the Mystic side of Zugzwang's Tower
+Bottomless Grave TS	 1,500	 Shadow	 0 	 0 	 5	No Effect	 728,000	 673,630	
+Brain Extractor LE, S	 2,000	 Shadow	 5 	 5 	 6	Fresh	 200,000	 237,000	 It has the special property of collecting Brain Bits.
+Cackle Lantern Trap LE, C, S	 2,200	 Shadow	 5 	 10 	 12	Extremely Stale	 29,000,000	 2,224,000+	 Extra Fire Salt from Jungle of Dread
+Christmas Cracker Trap LE, C	 3,000	 Physical	 15 	 5 	 24	Very Fresh	 56,000	 0	
+Chrome DeathBot LE	 2,800	 Physical	 20 	 15 	 30	Very Stale	 136,500	 512,800	
+Chrome DrillBot LE, S	 3,900	 Physical	 20 	 0 	 26	Insanely Stale	 544,000	 897,400	Scrap Metal loot from Steel mice
+Chrome MonstroBot C	 8,500	 Physical	 22 	 10 	 30	No Effect	 100,000,000	 14,695,400+	
+Chrome Nannybot LE, C	 1,200	 Shadow	 5 	 5 	 6	Fresh	 582,000	 508,000	
+Chrome RhinoBot LE	 6,000	 Physical	 10 	 0 	 27	Ultimately Stale	 1,196,000	 3,200,000	
+Chrome Tacky Glue Trap LE	 70	 Physical	 0 	 30 	 20	Stale	 0	 158,000	
+Clockapult of Time	 2,275	 Shadow	 10 	 5 	 10	Extremely Fresh	 20,000,000	 2,700,000	
+Clockapult of Winter Past E, C	 2,275	 Shadow	 10 	 5 	 10	Extremely Fresh	 20,000,000	 2,700,000	
+Clockwork Portal Trap C	 3,900	 Shadow	 12 	 10 	 20	No Effect	 150,000,000	 6,702,000+	
+Digby DrillBot TS, S	 3,200	 Physical	 18 	 0 	 5	No Effect	 409,500	 0+	Scrap Metal loot from Steel mice
+Dimensional Chest Trap TS	 5,200	 Tactical	 8 	 10 	 21	Extremely Fresh	 70,000,000	 1,200,000+	
+Double Diamond Adventure LE, C	 3,500	 Hydro	 0 	 5 	 18	Insanely Fresh	 6,400,000	 1,090,000	
+Engine Doubler S	 1,500	 Law	 12 	 0 	 0	No Effect	 Lord+	 150,000+	 Designed to be used in the Daredevil Canyon phase at the Gnawnian Express Station.
+Enraged RhinoBot C	 5,900	 Physical	 10 	 0 	 20	Insanely Stale	 17,000,000	 1,300,000+	
+Explosive Toboggan Ride LE	 2,700	 Hydro	 14 	 3 	 16	Extremely Fresh	 160,000	 10,000	
+Fluffy DeathBot C	 2,400	 Physical	 15 	 10 	 2	Stale	 91,000	 256,400	
+Giant Speaker LE	 2,850	 Tactical	 5 	 5 	 22	No Effect	 91,000	 612,800	
+Gingerbread House Surprise E, C	 2,200	 Tactical	 10 	 10 	 8	Uber Fresh	 91,000	<=94,500	
+Glacier GatlerC, LE	 4,800	 Hydro	 10 	 10 	 20	Very Fresh	 30,000,000	 189,000+	 It has the special property of collecting Snowball Charm. +20  Power Bonus when used with Snowball charms.
+Gorgon Trap	 2,000	 Shadow	 5 	 5 	 7	Very Stale	 7,500,000	 989,000	
+Grand Arcanum Trap C, TS	 4,800	 Arcane	 12 	 5 	 22	No Effect	 150,000,000	 5,851,050+	
+Grungy DeathBot C	 2,400	 Physical	 15 	 10 	 2	Stale	 91,000	 256,400	
+Harpoon Gun	 3,000	 Hydro	 7 	 0 	 0	Stale	 3,384,000	 664,000+	
+Heat Bath C	 4,000	 Hydro	 5 	 0 	 14	Stale	 24,800,000	 1,328,000	
+High Tension Spring TS	 75	 Physical	 5 	 20 	 2	No Effect	 0	 600	
+HitGrab Horsey LE	 550	 Physical	 2 	 0 	 20	Very Fresh	 0	 15,850	
+HitGrab Rainbow Rockin' Horse LE, C	 1,250	 Physical	 2 	 10 	 25	Uber Fresh	Grandmaster+	 60,050+	
+HitGrab Rockin' Horse LE	 1,250	 Physical	 2 	 10 	 25	No Effect	 9,100	 158,500	
+Horrific Venus Mouse Trap C, TS	 3,400	 Tactical	 12 	 1 	 16	No Effect	 8,000,000	 849,650+	
+Ice Blaster LE	 3,800	 Hydro	 5 	 5 	 12	Fresh	 1,000,000	 189,000+	 It has the special property of collecting Snowball Charm. +10  Power Bonus when used with Snowball charms.
+Ice Maiden C, TS	 5,200	 Draconic	 12 	 0 	 8	No Effect	 17,000,000	 600	
+Icy RhinoBot E, C	 4,950	 Physical	 0 	 0 	 8	Very Stale	 16,000,000	 940,000+	
+Isle Idol Trap LE, TS	 5,050	 Physical	 0 	 0 	 7	Stale	 16,000,000	 1,250,000	
+Isle Idol Hydroplane Skin LE	 3,500	 Hydro	 5 	 15 	 10	Stale	 16,000,000	 0*	
+Isle Idol Stakeshooter Skin LE	 3,750	 Tactical	 12 	 5 	 14	Stale	 16,000,000	 0*	
+Kraken Chaos LE	 3,400	 Hydro	 0 	 0 	 18	Very Stale	 843,500	 860,000	
+Maniacal Brain Extractor LE, C, S	 2,600	 Shadow	 10 	 0 	 13	Very Fresh	 25,000,000	 478,000+	 It has the special property of collecting Brain Bits.
+Mouse DeathBot	 2,400	 Physical	 15 	 10 	 2	Stale	 91,000	 256,400	
+Mouse Hot Tub	 70	 Physical	 3 	 35 	 2	No Effect	 0	 600	
+Mouse Mary O'Nette TS	 250	 Physical	 0 	 6 	 5	Fresh	 2,100	 6,250	
+Mouse Rocketine	 650	 Physical	 6 	 0 	 0	Extremely Stale	 11,000	 18,700	
+Mouse Trebuchet	 600	 Physical	 2 	 4 	 1	Very Fresh	 11,000	 15,850	
+Mutated Venus Mouse Trap C	 2,300	 Tactical	 15 	 0 	 8	Insanely Stale	 827,500	 299,650+	
+Mystic Pawn Pincher S	 60	 Tactical	 5 	 20 	 0	Fresh	 28,800,000	 643,750	 Favor the Mystic side of Zugzwang's Tower
+Nannybot LE, C	 525	 Parental	 5 	 0 	 5	No Effect	 0	 0	
+Net Cannon	 3,000	 Hydro	 0 	 3 	 5	Stale	 3,384,000	 664,000+	
+Ninja Ambush Trap C	 3,000	 Tactical	 5 	 0 	 12	Fresh	 950,000	 62,660+	
+Nutcracker Nuisance Trap LE, C, S	 3,000	 Arcane	 18 	 15 	 16	Insanely Fresh	 3,000,000	 0+	 Extra loot from Lichs in Balack's Cove, catch the Mad Elf in the Snow Fortress
+NVMRC Forcefield Trap	 2,350	 Physical	 12 	 10 	 12	No Effect	 91,000	 243,580+	
+Oasis Water Node Trap C, TS	 5,200	 Hydro	 12 	 10 	 20	No Effect	 76,000,000	 800,000+	
+Obelisk of Incineration C	 2,150	 Arcane	 10 	 0 	 1	Insanely Stale	 2,256,000	 361,429+	
+Obelisk of Slumber	 2,100	 Arcane	 0 	 10 	 0	Extremely Fresh	 1,696,240	 316,350	
+Obvious Ambush Trap C, S	 3,000	 Tactical	 15 	 0 	 12	Very Stale	 58,000,000	 1,107,750	 Favor the Technic side of Zugzwang's Tower
+Onyx Mallet C	 3,800	 Physical	 12 	 0 	 6	Stale	 1,600,000	 600,000	
+PartyBot LE, C	 2,850	 Physical	 15 	 15 	 25	Stale	 91,000	 243,580+	
+Phantasmic Oasis Trap C	 5,850	 Hydro	 15 	 20 	 26	No Effect	 150,000,000	 3,802,000+	
+Pneumatic Tube Trap LE	 2,300	 Physical	 20 	 5 	 18	No Effect	 91,000	 370,000	
+Pumpkin Pummeler LE, C	 1,150	 Shadow	 5 	 10 	 5	Fresh	 160,000	 168,000	
+Reaper's Perch C, TS	 3,300	 Shadow	 10 	 5 	 16	Stale	 38,000,000	 2,767,750	
+Rewers Riposte LE	 2,900	 Tactical	 15 	 5 	 25	Fresh	 108,900	 605,000	
+RhinoBot C	 4,950	 Physical	 0 	 0 	 8	Very Stale	 16,000,000	 940,000+	
+S.A.M. F.E.D. DN-5 LE	 2,750	 Tactical	 5 	 20 	 15	Fresh	 705,000	 375,000+	
+S.L.A.C. S	 350	 Law	 5 	 10 	 0	No Effect	 ?	 115,000	 +1,000 Power with Claw Shot Base in Claw Shot City
+S.L.A.C. II S, TS	 1,500	 Law	 6 	 15 	 0	No Effect	 ?	 275,000+	 +1,000 Power with Claw Shot Base in Claw Shot City
+Sandstorm MonstroBot C, TS	 8,000	 Physical	 20 	 5 	 27	No Effect	 100,000,000	 2,195,400+	
+Sandtail Sentinel TS	 6,800	 Physical	 17 	 10 	 25	No Effect	 85,000,000	 3,000,000+	
+Shrink Ray Trap	 1,000	 Physical	 5 	 2 	 8	Fresh	 0	 0	
+Sinister Portal	 1,025	 Shadow	 5 	 0 	 0	Stale	 182,000	 140,600	
+Snow Barrage LE	 1,450	 Tactical	 20 	 20 	 28	Very Fresh	 68,000	 140,600	
+Snowglobe Trap LE	 2,350	 Physical	 12 	 10 	 16	No Effect	 91,000	 341,000	
+Soul Catcher LE, S	 1,500	 Shadow	 5 	 5 	 5	No Effect	 165,000	 190,000+	 +10 Luck in Haunted Terrortories
+Soul Harvester LE, C, S	 2,200	 Shadow	 5 	 5 	 12	No Effect	 29,000,000	 1,830,000+	 +10 Luck in Haunted Terrortories and Fall at Seasonal Garden
+Sphynx Wrath C, TS	 6,100	 Tactical	 10 	 10 	 25	Very Fresh	 78,000,000	 1,628,000	
+Steam Laser Mk. I S	 4,200	 Hydro	 8 	 0 	 14	No Effect	 25,500,000	 345,000	 +1,750 Power and +3 Luck in Slushy Shoreline and Iceberg
+Steam Laser Mk. II C, S	 4,800	 Hydro	 12 	 10 	 18	Fresh	 25,500,000	 345,000	 +1,250 Power and +2 Luck in Slushy Shoreline and Iceberg
+Steam Laser Mk. II (Broken!)	 0	 Hydro	 0 	 0 	 0	Uber Fresh	 25,500,000	 345,000	
+Steam Laser Mk. III C, S, TS	 4,800	 Hydro	 12 	 10 	 18	Fresh	 25,500,000	 345,000	 +1,500 Power and +2 Luck in Slushy Shoreline and Iceberg
+Supply Grabber S	 1,500	 Law	 10 	 0 	 0	No Effect	 Lord+	 150,000+	 Designed to be used in the Supply Depot phase at the Gnawnian Express Station.
+Swiss Army Mouse Trap	 1,200	 Physical	 2 	 2 	 10	No Effect	 45,500	 68,895+	
+Tacky Glue Trap	 70	 Physical	 0 	 40 	 2	Stale	 0	 550	
+Tarannosaurus Rex Trap LE	 5,200	 Forgotten	 12 	 0 	 8	Fresh	 19,000,000	 4,000,000	
+Technic Pawn Pincher S	 60	 Tactical	 5 	 20 	 0	Stale	 28,800,000	 643,750	 Favor the Technic side of Zugzwang's Tower
+Terrifying Spider Trap LE, S	 2,400	 Shadow	 5 	 5 	 13	No Effect	 29,000,000	 0	 +10 Luck in Haunted Terrortories and Fall at Seasonal Garden.
+Thorned Venus Mouse Trap C	 3,400	 Tactical	 5 	 2 	 14	Very Fresh	 8,000,000	 849,650+	
+Ultra MegaMouser MechaBot Trap LE	 2,250	 Physical	 5 	 15 	 8	No Effect	 0	 100,000+	
+Venus Mouse Trap	 1,900	 Tactical	 0 	 5 	 5	Extremely Fresh	 490,500	 299,650	
+Warpath Thrasher LE, S	 4,500	 Physical	 10 	 5 	 6	Stale	 8,000,000	 2,150,000	 Extra Power and Luck in Fiery Warpath according to mice remaining
+Wrapped Gift Trap LE	 1,100	 Physical	 5 	 10 	 5	No Effect	 0	 150,000+	 Bonus stats during Great Winter Hunt 2012
+Zugzwang's First Move C, TS	 3,660	 Tactical	 15 	 0 	 17	Very Fresh	 38,000,000	 1,030,000	
+Zugzwang's Last Move	 2,200	 Tactical	 15 	 0 	 7	Fresh	 705,000	 415,000	
+Zurreal's Folly C, TS, S	 2,930	 Tactical	 20 	 15 	 12	Ultimately Stale	 30,000,000	 0	 The only trap that can catch Zurreal the Eternal

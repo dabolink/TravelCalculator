@@ -1,0 +1,50 @@
+Aqua Base
+	230
+	0
+	0
+	8
+	No Effect
+	1,140,000
+	124,900	
+Bacon Base LE	 200	 0 	 15 	 0	Extremely Fresh	 60,000	 70,000	
+Bamboozler Base	 200	 10 	 5 	 0	Very Fresh	 900,000	 90,000	
+Birthday Cake Base E	 175	 11 	 5 	 0	No Effect	 110,000	 12,350	
+Bronze Tournament Base P	 300	 5 	 3 	 5	Fresh	 100,000	 0	 +2 Luck when paired with Champion Charm
+Candy Cane Base E	 300	 0 	 0 	 8	Fresh	 110,000	 90,000	
+Carrot Birthday Cake Base E	 175	 5 	 5 	 3	Fresh	 0	 0	
+Cheesecake Base E	 175	 3 	 20 	 0	No Effect	 180,000	  80,000	
+Chocolate Birthday Cake Base E	 175	 8 	 5 	 1	No Effect	 0	 0	
+Claw Shot Base P, S	 250	 10 	 5 	 4	Very Fresh	 0	 75,000	 In Claw Shot City: +1,000 Power with S.L.A.C. and S.L.A.C. II, +1,500 Power with Cactus Charm
+Crushed Birthday Cake Base E	 185	 3 	 15 	 5	Uber Stale	 0	 0	
+Deep Freeze Base C, S	 35	 0 	 0 	 0	Uber Fresh	 25,500,000	  362,000	 +665 Power, +9 Luck, and enables the Hidden Depths of Iceberg
+Dehydration Base C	 225	 0 	 5 	 4	Insanely Fresh	 22,500	  23,608	
+Dragon Jade Base LE	 300	 10 	 0 	 10	No Effect	 300,000	 445,000	
+Explosive Base	 300	 5 	 5 	 0	Stale	 22,500	 29,775	
+Eerie Base E	 300	 8 	 5 	 8	Very Stale	 230,000	 120,000	
+Eerier Base E	 300	 10 	 0 	 10	Stale	 320,000	 320,000	
+Fan Base	 175	 12 	 0 	 2	Very Fresh	 0	 0	
+Firecracker Base LE	 300	 5 	 5 	 4	Stale	 92,000	 90,000	
+Gingerbread Base E, C	 225	 8 	 0 	 4	Insanely Fresh	 90,000	  0	
+Golden Tournament Base P	 500	 15 	 10 	 8	Extremely Fresh	 25,000,000	 0	 +4 Luck when paired with Champion Charm
+Hearthstone Base C, S	 200	 0 	 10 	 2	Very Fresh	 25,000,000	147,500	 Repel Zealots in The Mad Depths of Iceberg
+Jade Base E	 300	 10 	 0 	 4	Extremely Fresh	 90,000	 147,500	
+Magma Base LE	 300	 8 	 5 	 10	Insanely Stale	 238,200	 374,700	
+Magnet Base C, S	 250	 10 	 0 	 5	Fresh	 25,000,000	 48,500	 Attract Tunnel Rats in Treacherous Tunnels of Iceberg
+Molten Shrapnel Base C	 300	 12 	 5 	 8	Extremely Stale	 18,000,000	 720,000	
+Monolith Base	 300	 12 	 0 	 0	No Effect	 590,000	 0	
+Papyrus Base	 400	 0 	 0 	 10	Fresh	 70,000,000	 1,176,000+	
+Polar Base LE	 200	 10 	 0 	 4	Insanely Fresh	 90,000	 59,550	
+Remote Detonator Base C, S	 300	 10 	 10 	 4	Stale	 25,000,000	 48,500	 Extra depth for Bomb Squad in Bombing Run of Iceberg
+Rift Base C	 250	 12 	 0 	 11	Fresh	 125,000,000	 7,500,000+	
+Runic Base LE, S	 200	 12 	 10 	 5	No Effect	 264,400	 580,785	 Extra Rune loot in Bristle Woods
+Seasonal Base LE, S	 300	 0 	 8 	 6	No Effect	 214,380	 412,000	 18  Power Bonus in Seasonal Garden
+Silver Tournament Base P	 400	 10 	 5 	 7	Very Fresh	 1,500,000	 0	 +3 Luck when paired with Champion Charm
+Snake Jade Base LE	 300	 10 	 10 	 10	No Effect	 450,000	 525,000+	
+Soiled Base C, P	 400	 12 	 5 	 6	Very Fresh		 500	 Extra power, luck, and attraction when paired with Growth or Wild Growth Charm
+Spellbook Base C, P	 500	 14 	 5 	 7	Fresh	 67,750,000	 1,296,000	 +500 Power and 8  Power Bonus when paired with Spellbook Charm
+Spiked Base C, S	 300	 12 	 0 	 3	Very Stale	 25,000,000	 97,500	 No depth lost for Brute in Brutal Bulwark of Iceberg
+Stone Base	 150	 10 	 0 	 0	Fresh	 5,000	  6,175	
+Tiki Base E, C, S	 200	 18 	 5 	 0	Very Fresh	 14,000,000	 669,600	 +6 Luck against Tribe mice
+Tribal Base	 175	 18 	 2 	 0	Fresh	 14,000,000	 499,600	
+Wooden Base	 35	 0 	 0 	 0	Very Fresh	 0	 300	
+Wooden Base with Target	 75	 0 	 20 	 0	No Effect	 650	 1,225	
