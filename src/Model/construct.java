@@ -61,7 +61,7 @@ public class construct {
 			}
 			while((sCurrentLine = buffer.readLine())!=null){
 				cheese = new Cheese(sCurrentLine);
-				System.out.println(cheese.toString());
+				//System.out.println(cheese.toString());
 			}
 		}catch(IOException e){
 			e.printStackTrace();

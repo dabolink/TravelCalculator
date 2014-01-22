@@ -1,16 +1,6 @@
 Gnawnia
 	Meadow
-		Cheese Shoppe
-			Cheddar
-			Marble
-			Swiss
-		Trapsmith
 	Town of Gnawnia
-		Cheese Shoppe
-			Cheddar
-			Marble
-			Swiss
-			Brie
 	Windmill
 	Harbour
 	Mountain
