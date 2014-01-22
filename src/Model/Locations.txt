@@ -1,2 +1,64 @@
-Valour	Whisker Woods	Burroughs	Furoma	Bristle Woods	Rodentia	Tribal Isles	Sandtail Desert
-Meadow	Town of Gnawnia	Windmill	Harbour	Mountain	Slushy Shoreline	King's Arms	Tournament Hall	King's Gauntlet	Calm Clearing	Great Gnarled Tree	Lagoon	Lab.	Town of Digby	Mousoleum	Bazaar	Training Grounds Dojo	Med. Room	Pinnacle Chamber	Catacombs	Forbidden Grove	Acolyte Realm	S.S. Huntington III	Seasonal Garden	Zugzwang's Tower	Crystal Library	Iceberg	Cape Clawed	Elub Shore	Nerg Plains	Derr Dunes	Jungle of Dread	Dracano	Balack's Cove	Fiery Warpath	Muridae Market	Living Garden	Lost City	Sand Dunes
+Gnawnia
+	Meadow
+		Cheese Shoppe
+			Cheddar
+			Marble
+			Swiss
+		Trapsmith
+	Town of Gnawnia
+		Cheese Shoppe
+			Cheddar
+			Marble
+			Swiss
+			Brie
+	Windmill
+	Harbour
+	Mountain
+	Slushy Shoreline
+Valour
+	King's Arms
+	Tournament Hall
+	King's Gauntlet
+Whisker Woods
+	Calm Clearing
+	Great Gnarled Tree
+	Lagoon
+Varmint Valley
+	Claw Shot City
+	Gnawnian Express Station
+Burroughs
+	Laboratory
+	Town of Digby
+	Mousoleum
+	Bazaar
+Furoma
+	Training Grounds
+	Dojo
+	Meditation Room
+	Pinnacle Chamber
+Bristle Woods	
+	Catacombs
+	Forbidden Grove
+	Acolyte Realm
+Rodentia
+	S.S. Huntington III
+	Seasonal Garden
+	Zugzwang's Tower
+	Crystal Library
+	Iceberg
+Tribal Isles
+	Cape Clawed
+	Elub Shore
+	Nerg Plains
+	Derr Dunes
+	Jungle of Dread
+	Dracano
+	Balack's Cove
+Sandtail Desert
+	Fiery Warpath
+	Muridae Market
+	Living Garden
+	Lost City
+	Sand Dunes
+Borroughs extension
+	Toxic Spill

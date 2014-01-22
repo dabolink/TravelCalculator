@@ -8,5 +8,7 @@ public class GeneralStore extends Shop{
 	public GeneralStore(String name, Item[] inventory){
 		super(name, inventory);
 	}
-	
+	public String toString(){
+		return getName();
+	}
 }

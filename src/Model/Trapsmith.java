@@ -8,5 +8,7 @@ public class Trapsmith extends Shop{
 	public Trapsmith(String name, Item[] inventory){
 		super(name, inventory);
 	}
-	
+	public String toString(){
+		return getName();
+	}
 }

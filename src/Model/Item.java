@@ -33,4 +33,7 @@ public class Item {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+	public String toString(){
+		return name + " " + quantity + " " + description + " " + smashable;
+	}
 }

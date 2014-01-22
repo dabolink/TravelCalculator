@@ -24,4 +24,14 @@ public class Shop {
 	public Item[] getInventory(){
 		return this.inventory;
 	}
+	public String toString(){
+		String toString = name;
+		return toString;
+		/*int i=0;
+		while(inventory[i]!=null){
+			toString += " " + inventory[i].toString();
+		}
+		return toString;
+	*/
+	}
 }

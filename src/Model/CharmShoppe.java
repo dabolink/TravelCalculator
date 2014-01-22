@@ -9,5 +9,7 @@ public class CharmShoppe extends Shop {
 	public CharmShoppe(String name, Item[] inventory) {
 		super(name, inventory);
 	}
-
+	public String toString(){
+		return getName();
+	}
 }

@@ -10,7 +10,28 @@ public class Location {
 	private GeneralStore generalStore;
 	private Trapsmith trapsmith;
 	private Cartographer cartographer;
-	
+	/**
+	 *
+	 * @param name
+	 */
+	public Location(String name){
+		this.name = name;
+	}
+	/**
+	 * 
+	 * @param name
+	 * @param minimumTitle
+	 * @param id
+	 */
+	public Location(String name,String minimumTitle,int id){
+		this.name = name;
+		this.minimumTitle = minimumTitle;
+		this.id = id;
+	}
+	/**
+	 * 
+	 * @return
+	 */
 	public boolean hasCheeseShoppe(){
 		if(cheeseShoppe != null){
 			return true;
@@ -41,14 +62,7 @@ public class Location {
 		}
 		return false;
 	}
-	public Location(String name){
-		this.name = name;
-	}
-	public Location(String name,String minimumTitle,int id){
-		this.name = name;
-		this.minimumTitle = minimumTitle;
-		this.id = id;
-	}
+
 	public void setName(String name){
 		this.name = name;
 	}
@@ -82,13 +96,28 @@ public class Location {
 	public CharmShoppe getCharmShoppe() {
 		return charmShoppe;
 	}
+	/**
+	 * 
+	 * @param charmShoppe
+	 */
 	public void setCharmShoppe(CharmShoppe charmShoppe) {
 		this.charmShoppe = charmShoppe;
 	}
 	public CheeseShoppe getCheeseShoppe() {
 		return cheeseShoppe;
 	}
+	/**
+	 * 
+	 * @param cheeseShoppe
+	 */
 	public void setCheeseShoppe(CheeseShoppe cheeseShoppe) {
 		this.cheeseShoppe = cheeseShoppe;
+	}
+	/**
+	 * @return String
+	 */
+	public String toString(){
+		return name + " " + minimumTitle + " " + id + " " + hasTrapsmith() + " " + hasCheeseShoppe() + " " + hasGeneralStore() + " " + hasCartographer() + " " + hasCharmShoppe();
+		
 	}
 }

@@ -9,5 +9,7 @@ public class Cartographer extends Shop {
 	public Cartographer(String name, Item[] inventory) {
 		super(name, inventory);
 	}
-
+	public String toString(){
+		return getName();
+	}
 }
