@@ -12,7 +12,7 @@ public class Item {
 	public Item(String name, int quantity, String description, boolean smashable){
 		this.name = name;
 		this.quantity = quantity;
-		this.description = description;
+		this.setDescription(description);
 		this.smashable = smashable;
 	}
 	public void setName(String name){
@@ -26,5 +26,11 @@ public class Item {
 	}
 	public int getQuantity(){
 		return this.quantity;
+	}
+	public String getDescription() {
+		return description;
+	}
+	public void setDescription(String description) {
+		this.description = description;
 	}
 }

@@ -9,10 +9,50 @@ public class Potion extends Item{
 	
 	public Potion(int quantity, String name, int cost, Cheese startCheese, int startCheeseAmount, Cheese endCheese, int endCheeseAmount, String description, boolean smashable){
 		super(name, quantity, description, smashable);
+		this.setStartCheese(startCheese);
+		this.setStartCheeseAmount(startCheeseAmount);
+		this.setEndCheese(endCheese);
+		this.setStartCheeseAmount(startCheeseAmount);
+		this.setCost(cost);
+	}
+
+	public Cheese getStartCheese() {
+		return startCheese;
+	}
+
+	public void setStartCheese(Cheese startCheese) {
 		this.startCheese = startCheese;
+	}
+
+	public int getStartCheeseAmount() {
+		return startCheeseAmount;
+	}
+
+	public void setStartCheeseAmount(int startCheeseAmount) {
 		this.startCheeseAmount = startCheeseAmount;
+	}
+
+	public Cheese getEndCheese() {
+		return endCheese;
+	}
+
+	public void setEndCheese(Cheese endCheese) {
 		this.endCheese = endCheese;
-		this.startCheeseAmount = startCheeseAmount;
+	}
+
+	public int getEndCheeseAmount() {
+		return endCheeseAmount;
+	}
+
+	public void setEndCheeseAmount(int endCheeseAmount) {
+		this.endCheeseAmount = endCheeseAmount;
+	}
+
+	public int getCost() {
+		return cost;
+	}
+
+	public void setCost(int cost) {
 		this.cost = cost;
 	}
 }
